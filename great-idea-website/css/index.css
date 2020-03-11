@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5 {
 }
  .logo{
 	 display: inline-block;
-	 margin: auto 80% 0;
+	 margin: 0 65% 0;
  }
 		#serv{
 		display: inline-block;
@@ -106,21 +106,21 @@ h1, h2, h3, h4, h5 {
 	}
 	#innov{
 		display: block;
-		font-size: 36px;
+		font-size: 45px;
 		text-align: center;
 		font-weight: bold;
-		margin: 0 auto;
+		margin: 10% auto 0;
 	}
 	#onHead{
 		display: block;
-		font-size:36px;
+		font-size:45px;
 		text-align: center;
 		font-weight: bold;
 		margin: 0 auto;
 	}
 	#demandHead{
 		display: block;
-		font-size:36px;
+		font-size:45px;
 		text-align: center;
 		font-weight: bold;
 		margin: 0 auto;
@@ -130,7 +130,23 @@ h1, h2, h3, h4, h5 {
 		margin: 0 auto;
 	}
 	#imgHead{
-		display: block;
-		margin: 0 2% 0 65%;
+		display: inline-block;
+		margin: 0 65%;
+	}
+	h3{
+		display:inline-block;
+		margin:0 auto;
+		font-weight:bold;
+
+	}
+	.feat{
+		display:inline-block;
+		margin:0 auto;
+		width: 50%;
+	}
+	.about{
+		display:inline-block;
+		margin:0 auto;
+		width: 50%;
 	}
  
