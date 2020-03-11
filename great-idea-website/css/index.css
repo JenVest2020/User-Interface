@@ -104,4 +104,23 @@ h1, h2, h3, h4, h5 {
 		margin: 0 2%;
 		color:gray;
 	}
+	h1{
+		font-size: 36px;
+		text-align: justify;
+		font-weight: bold;
+	}
+	#onHead{
+		font-size:36px;
+		text-align: justify;
+		font-weight: bold;
+	}
+	#demandHead{
+		font-size:36px;
+		text-align: justify;
+		font-weight: bold;
+	}
+	button{
+		display: inline-block;
+		margin: 0 2%;
+	}
  
