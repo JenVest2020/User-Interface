@@ -68,5 +68,40 @@ h1, h2, h3, h4, h5 {
 	border: 1px solid gray;
 	box-sizing: border-box;
 	margin:0;
-	
+
 }
+ .logo{
+	 display: inline-block;
+	 margin: 0 80%;
+ }
+		#serv{
+		display: inline-block;
+		margin: 0 2%;
+		color: gray;
+	}
+	#prod{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+	#vis{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+	#feat{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+	#about{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+	#cont{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+ 
