@@ -64,3 +64,31 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.navigation{
+	display:inline-block;
+	width:80%;
+}
+.serv{
+	margin:2% 5%;
+	color:gray;
+}
+.prod{
+	margin:2% 5%;
+	color:gray;
+}
+.vis{
+	margin:2% 5%;
+	color:gray;
+}
+.feat{
+	margin:2% 5%;
+	color:gray;
+}
+.about{
+	margin:2% 5%;
+	color:gray;
+}
+.cont{
+	margin:2% 3%;
+	color:gray;
+}
