@@ -121,8 +121,25 @@ header{
 }
 .topcontent div{
 	float:left;
-	width:49%;
+	width:40%;
 }
 .middle-img{
 	margin:2% 5%;
+}
+.bottomcontent{
+	display:inline-block;
+	border-bottom:2px solid gray;
+}
+.bottomcontent div{
+	float:left;
+	width:25%;
+}
+.contact div{
+	clear:left;
+	margin-top:5%;
+	width:25%;	
+}
+footer{
+	margin-top:5%;
+	text-align: center;
 }
