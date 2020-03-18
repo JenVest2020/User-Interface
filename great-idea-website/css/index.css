@@ -99,6 +99,7 @@ header{
 	width:100%;
 }
 h1{
+	display:inline-block;
 	text-align: center;
 	margin-top: 10%;
 	margin-right:0;
@@ -107,12 +108,15 @@ h1{
 }
 .imgCircle{
 	float:right;
-	margin-right:5%;
+	margin-right:10%;
+	margin-top:5%;
+	vertical-align:top;
 }
 
 button{
 	margin:0 20%;
 }
-.topcontent{
-	display:inline-block;
+.topcontent div{
+	float:left;
+	width:49%;	
 }
