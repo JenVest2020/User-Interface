@@ -116,7 +116,13 @@ h1{
 button{
 	margin:0 20%;
 }
+header{
+	border-bottom:2px solid black;
+}
 .topcontent div{
 	float:left;
-	width:49%;	
+	width:49%;
+}
+.middle-img{
+	margin:2% 5%;
 }
