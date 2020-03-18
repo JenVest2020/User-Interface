@@ -71,8 +71,7 @@ h1, h2, h3, h4, h5 {
 .serv{
 	margin:2% 5%;
 	color:gray;
-}
-.prod{
+}.prod{
 	margin:2% 5%;
 	color:gray;
 }
@@ -92,11 +91,12 @@ h1, h2, h3, h4, h5 {
 	margin:2% 3%;
 	color:gray;
 }
+.logo{
+	margin-top:2%;
+}
 header{
 	display:inline-block;
 	width:100%;
-
-
 }
 h1{
 	text-align: center;
@@ -107,11 +107,12 @@ h1{
 }
 .imgCircle{
 	float:right;
+	margin-right:5%;
 }
 
 button{
 	margin:0 20%;
 }
 .topcontent{
-	display:block;
+	display:inline-block;
 }
