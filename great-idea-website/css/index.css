@@ -78,20 +78,23 @@ a{
 .serv{
 	margin-left:0;
 }
-h1{
-	width:50%;
-	font-size: 60px;
+.headcontainer{
+	display: inline-block;
+	width:100%;
+	border:1px solid darkgreen;
 }
 .headtext{
-	display: inline-block;
+	display:inline-block;
 	text-align: center;
+	font-size: 60px;
+	margin-top: 5%;
 	width:50%;
-	padding:5%;
+	border:1px solid darkgreen;
 }
 .headimage{
 	width:50%;
-	padding:5%;
 	float:right;
+	border:1px solid darkgreen;
 }
 button{
 	font-size: large;
