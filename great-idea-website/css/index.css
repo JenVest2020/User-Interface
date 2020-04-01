@@ -63,4 +63,50 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+.navigation{
+	display:inline-block;
+	width:100%;
+	margin:2% 10%;
+}
+.logo{
+}
+a{
+	margin:5%;
+	text-decoration: none;
+	color:darkgray;
+}
+.serv{
+	margin-left:0;
+}
+h1{
+	width:50%;
+	font-size: 60px;
+}
+.headtext{
+	display: inline-block;
+	text-align: center;
+	width:50%;
+	padding:5%;
+}
+.headimage{
+	width:50%;
+	padding:5%;
+	float:right;
+}
+button{
+	font-size: large;
+	font-weight: bold;
+	margin-left: 0;
+}
+.middlecontent{
+	display:inline-block;
+	margin:10%,0;
+}
+.toptext{
+	width:50%;
+
+}
+.middle-img{
+	width:100%;
+	margin:2% 10%;
+}
