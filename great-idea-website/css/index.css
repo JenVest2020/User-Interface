@@ -81,24 +81,24 @@ a{
 .headcontainer{
 	display: inline-block;
 	width:100%;
-	border:1px solid darkgreen;
+	padding:2%;
+	border-bottom:1px solid black;
 }
 .headtext{
 	display:inline-block;
 	text-align: center;
 	font-size: 60px;
-	margin-top: 5%;
+	margin-top: 4%;
 	width:50%;
-	border:1px solid darkgreen;
 }
 .headimage{
 	width:50%;
 	float:right;
-	border:1px solid darkgreen;
 }
 button{
-	font-size: large;
+	font-size: medium;
 	font-weight: bold;
+	padding:1% 5%;
 	margin-left: 0;
 }
 .middlecontent{
