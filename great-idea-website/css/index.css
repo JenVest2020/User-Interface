@@ -103,13 +103,31 @@ button{
 }
 .middlecontent{
 	display:inline-block;
+	width:100%;
 	margin:10%,0;
+	border:1px solid black;
+}
+p{
+	font-weight:bold;
+}
+h2{
+	font-weight:bold;
 }
 .toptext{
-	width:50%;
-
+	display:inline-block;
+	padding:2%;
 }
 .middle-img{
 	width:100%;
-	margin:2% 10%;
+	margin:2% 0;
+}
+.feat{
+	width:50%;
+	margin-top:3%;
+	float:left;
+}
+.about{
+	width:50%;
+	padding-top:3%;
+	float:right;
 }
