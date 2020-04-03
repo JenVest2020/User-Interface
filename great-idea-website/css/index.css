@@ -118,16 +118,16 @@ h2{
 	padding:2%;
 }
 .middle-img{
-	width:100%;
-	margin:2% 0;
+	width:90%;
+	margin:2% 5%;
 }
 .feat{
-	width:50%;
-	margin-top:3%;
+	width:45%;
+	margin:3% 0 3% 0;
 	float:left;
 }
 .about{
-	width:50%;
+	width:45%;
 	padding-top:3%;
 	float:right;
 }
