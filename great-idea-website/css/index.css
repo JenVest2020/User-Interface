@@ -105,7 +105,7 @@ button{
 	display:inline-block;
 	width:100%;
 	margin:10%,0;
-	border:1px solid black;
+	border-bottom:1px solid black;
 }
 p{
 	font-weight:bold;
@@ -123,11 +123,32 @@ h2{
 }
 .feat{
 	width:45%;
-	margin:3% 0 3% 0;
+	margin:3% 0 0 3%;
 	float:left;
 }
 .about{
 	width:45%;
 	padding-top:3%;
 	float:right;
+}
+.bottomtext{
+	display:inline-block;
+	padding:0 3% 3% 3%;
+}
+.serv{
+	width:30%;
+	margin-left:2%;
+	padding-right:4%;
+	float:left;
+
+}
+.prod{
+	width:30%;
+	padding:0 4%;
+	float:left;
+}
+.vis{
+	width:30%;
+	padding-left:4%;
+	float:left;
 }
