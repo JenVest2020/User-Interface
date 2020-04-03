@@ -66,28 +66,32 @@ h1, h2, h3, h4, h5 {
 .navigation{
 	display:inline-block;
 	width:100%;
-	margin:2% 10%;
+	margin:2% 5%; 
 }
 .logo{
+	vertical-align: middle;
 }
 nav a{
-	margin:5%;
+	/* margin:%; */
+	display:inline-block;
+	vertical-align: middle;
+	width:13%;
 	text-decoration: none;
 	color:darkgray;
 }
 .serv{
-	margin-left:0;
+	/* margin-left:0; */
 }
 .headcontainer{
 	display: inline-block;
 	width:100%;
 	padding:2%;
-	border-bottom:1px solid black;
+	
 }
 .headtext{
 	display:inline-block;
 	text-align: center;
-	font-size: 60px;
+	font-size: 72px;
 	margin-top: 4%;
 	width:50%;
 }
@@ -105,7 +109,6 @@ button{
 	display:inline-block;
 	width:100%;
 	margin:10%,0;
-	border-bottom:1px solid black;
 }
 p{
 	font-weight:bold;
@@ -115,58 +118,60 @@ h2{
 }
 .toptext{
 	display:inline-block;
-	padding:2%;
+	margin:0 5%;
+	padding:2% 0;
+	border-top:1px solid black;
 }
 .middle-img{
 	width:90%;
 	margin:2% 5%;
 }
 .feat{
-	width:45%;
-	margin:3% 0 0 3%;
+	width:50%;
 	float:left;
 }
 .about{
-	width:45%;
-	padding-top:3%;
+	width:50%;
+	padding:0 0 0 2%;
 	float:right;
 }
 .bottomtext{
 	display:inline-block;
-	padding:0 3% 3% 3%;
+	margin:0 5%;
+	padding-bottom:2%;
+	border-bottom:1px solid black;
 }
 .serv{
-	width:30%;
-	margin-left:2%;
+	width:33%;
 	padding-right:4%;
 	float:left;
 
 }
 .prod{
-	width:30%;
+	width:33%;
 	padding:0 4%;
 	float:left;
 }
 .vis{
-	width:30%;
+	width:33%;
 	padding-left:4%;
 	float:left;
 }
 .bottomcontent{
 	color:black;
 	font-weight: bold;
+	margin-left:5%;
 }
 .bottomcontent a{
 	color:black;
-	margin:2% 0;
+	/* margin:2% 0; */
 }
 .phone{
 	width:10%;
 	margin:2% 0;
 }
 footer{
-	width:20%;
 	text-align: center;
 	font-weight: bold;
-	margin:2% 0 10% 43%;
+	margin:5% 5% 10% 5%;
 }
