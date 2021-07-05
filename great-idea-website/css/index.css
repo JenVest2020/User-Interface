@@ -64,3 +64,101 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+*{
+	border:1px solid gray;
+}
+ .logo{
+	 display: inline-block;
+	 margin: 0 65% 0;
+	 border:0;
+ }
+		#serv{
+		display: inline-block;
+		margin: 0 2%;
+		color: gray;
+	}
+	#prod{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+	#vis{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+	#feat{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+	#about{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+	#cont{
+		display: inline-block;
+		margin: 0 2%;
+		color:gray;
+	}
+	#innov{
+		border:1px solid gray;
+		display: block;
+		font-size: 60px;
+		width:300px;
+		text-align: center;
+		font-weight: bold;
+		margin: 10% auto 0;
+	}
+	#onHead{
+		border:1px solid gray;
+		display: block;
+		font-size:60px;
+		width:300px;
+		text-align: center;
+		font-weight: bold;
+		margin: 0 auto;
+	}
+	#demandHead{
+		border:1px solid gray;
+		display: block;
+		font-size:60px;
+		width:300px;
+		text-align: center;
+		font-weight: bold;
+		margin: 0 auto;
+	}
+	button{
+		border:1px solid gray;
+		display:block;
+		width: 10%;
+		height: 10%;
+		margin: 0 auto;
+	}
+	#imgHead{
+		border:1px solid gray;
+		display:inline-block;
+		margin:auto 65%;
+	}
+	h3{
+		border:1px solid gray;
+		display:inline-block;
+		width:300px;
+		margin:0 auto;
+		font-weight:bold;
+
+	}
+	.feat{
+		border:1px solid gray;
+		display:inline-block;
+		margin:0 auto;
+		width: 49%;
+	}
+	.about{
+		border:1px solid gray;
+		display:inline-block;
+		margin:0 auto;
+		width: 49%;
+	}
+ 
